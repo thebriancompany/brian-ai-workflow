@@ -1,0 +1,7 @@
+{
+  "interface": {
+    "display_name": "접근 방식 다듬기",
+    "short_description": "기존 아이디어와 계획의 모호함을 줄이고 필요한 결정을 정리합니다",
+    "default_prompt": "$dev-refine 이 계획의 모호한 부분과 불필요한 범위를 다듬어줘."
+  }
+}

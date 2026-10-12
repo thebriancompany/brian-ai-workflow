@@ -1,0 +1,7 @@
+{
+  "interface": {
+    "display_name": "계획 기술 검토",
+    "short_description": "계획을 현재 코드와 대조해 구현 가능성과 위험을 확인합니다",
+    "default_prompt": "$dev-plan-review 이 계획이 현재 코드에서 구현 가능한지 검토해줘."
+  }
+}
