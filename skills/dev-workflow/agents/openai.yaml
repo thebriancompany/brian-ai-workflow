@@ -1,0 +1,7 @@
+{
+  "interface": {
+    "display_name": "개발 워크플로우",
+    "short_description": "아이디어부터 구현과 검증까지 프로젝트에 맞춰 진행합니다",
+    "default_prompt": "$dev-workflow 현재 프로젝트에서 이 기능을 계획부터 구현과 검증까지 진행해줘."
+  }
+}

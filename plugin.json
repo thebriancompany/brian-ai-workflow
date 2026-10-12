@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "brian-ai-workflow",
+  "version": "0.1.0",
+  "description": "아이디어 정리부터 계획, 구현, 검증, 리뷰, PR과 회고까지 연결하는 한국어 개발 워크플로우입니다.",
+  "license": "MIT",
+  "keywords": ["development", "workflow", "codex", "korean"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "개발 워크플로우",
+        "shortDescription": "프로젝트 관례를 따르는 한국어 개발 워크플로우",
+        "longDescription": "특정 언어나 프레임워크에 종속되지 않는 13개 스킬입니다. 요구사항 탐색, 실행 계획, 구현과 검증, 코드 리뷰, 긴급 수정, PR, 리베이스, 회고를 지원합니다.",
+        "defaultPrompt": ["현재 프로젝트에 맞춰 이 기능의 계획부터 구현과 검증까지 진행해줘."]
+      }
+    }
+  }
+}
