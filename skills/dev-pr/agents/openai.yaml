@@ -1,0 +1,7 @@
+{
+  "interface": {
+    "display_name": "PR 작성과 제출",
+    "short_description": "요청한 변경을 검증하고 커밋과 푸시를 거쳐 PR을 작성합니다",
+    "default_prompt": "$dev-pr 이번 작업의 변경만 커밋하고 푸시해서 PR을 만들어줘."
+  }
+}
