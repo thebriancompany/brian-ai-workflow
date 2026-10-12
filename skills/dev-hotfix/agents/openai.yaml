@@ -1,0 +1,7 @@
+{
+  "interface": {
+    "display_name": "긴급 수정",
+    "short_description": "긴급 버그를 재현하고 최소 변경과 회귀 검증으로 해결합니다",
+    "default_prompt": "$dev-hotfix 이 버그를 재현하고 최소 변경으로 수정한 뒤 검증해줘."
+  }
+}

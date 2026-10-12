@@ -1,0 +1,7 @@
+{
+  "interface": {
+    "display_name": "프로젝트 시작",
+    "short_description": "지정한 기술과 기존 관례에 맞춰 최소 프로젝트를 생성합니다",
+    "default_prompt": "$dev-create 지정한 기술로 최소 프로젝트를 구성하고 실행 방법을 확인해줘."
+  }
+}

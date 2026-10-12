@@ -1,0 +1,7 @@
+{
+  "interface": {
+    "display_name": "구현과 검증",
+    "short_description": "계획이나 명확한 요구사항에 따라 구현하고 관련 검증을 수행합니다",
+    "default_prompt": "$dev-build 이 계획의 미완료 단계부터 구현하고 테스트와 리뷰까지 진행해줘."
+  }
+}
